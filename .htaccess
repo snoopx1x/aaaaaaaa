@@ -1,4 +1,4 @@
-SetEnvIf User-Agent .*custom useragent here* usragent
+SetEnvIf User-Agent .*am0rimx* usragent
 
 Order deny,allow
 Deny from all
